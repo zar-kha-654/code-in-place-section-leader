@@ -47,12 +47,12 @@ I have the pleasure of working with amazing students from around the world:
 Karel is a friendly robot that lives on a grid world. Students learn programming logic by giving Karel instructions — move, turn, pick up beepers, put down beepers — a perfect way to learn **functions, loops, and decomposition** before writing real Python.
 
 **The Problem:** Karel detects beepers on its path and builds a 3×2 hospital at each marked location.
+BEFORE:
+<img width="413" height="186" alt="Screenshot 2026-05-04 185127" src="https://github.com/user-attachments/assets/a33878e7-5a25-4d0f-abe8-bb5e9b0bb542" />
+AFTER:
+<img width="421" height="172" alt="Screenshot 2026-05-04 185233" src="https://github.com/user-attachments/assets/06e44e83-239e-449f-ad5e-9430b634dc48" />
 
-```
-<img width="211" height="86" alt="image" src="https://github.com/user-attachments/assets/353a7fb2-b878-4fef-b9de-2fd7879db202" />
 
-
-```
 
 **What we covered:**
 - Detecting beepers along Karel's path
@@ -66,8 +66,8 @@ Karel is a friendly robot that lives on a grid world. Students learn programming
 
 Karel collects an entire pile of beepers and spreads them one-by-one across the row — works for **any pile size**.
 
-```<img width="217" height="107" alt="Screenshot 2026-05-04 184953" src="https://github.com/user-attachments/assets/a8f05540-6f58-458f-9f5b-b3fb071e760c" />
-```
+<img width="433" height="213" alt="Screenshot 2026-05-04 184925" src="https://github.com/user-attachments/assets/d8c44ca1-4d5b-468e-850f-51c7f2698181" />
+
 
 **What we covered:**
 - Breaking the problem down using **decomposition**
@@ -75,23 +75,6 @@ Karel collects an entire pile of beepers and spreads them one-by-one across the 
 - Applying **stepwise refinement**
 - Making the solution work for any pile size — not just a fixed one
 
----
-
-## 📂 Repository Structure
-
-```
-code-in-place-2026/
-├── week1/          # Karel Hospital Builder
-├── week2/          # Spread Beepers
-├── week3/          # Python Basics (coming soon)
-├── week4/          # Control Flow (coming soon)
-├── week5/          # Graphics (coming soon)
-└── week6/          # Lists & Dicts (coming soon)
-```
-
-Solutions, notes, and recaps will be added after each session.
-
----
 
 ## 📬 Connect
 
